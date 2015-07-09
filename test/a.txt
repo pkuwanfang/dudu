@@ -7,3 +7,5 @@ This is the second modification to a.txt in master.
 This is the third modification to a.txt in master.
 
 This is the 1st change in fang.wan.
+
+This is the 2nd change in fang.wan.
