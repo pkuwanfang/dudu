@@ -4,4 +4,6 @@ I'll push this change to the remote machine.
 
 I'm gonna test merge rebase push pull and cherry-pick commands.
 
-This is another change #4.
+This is another change #b.4.
+
+This is change #b.5.
