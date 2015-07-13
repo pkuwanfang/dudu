@@ -5,3 +5,5 @@ I'll push this change to the remote machine.
 This is change master.3.
 
 This is change master.4.
+
+I'm gonna test merge rebase push pull and cherry-pick commands.
