@@ -1,3 +1,5 @@
 This is file b.
 
 I'll push this change to the remote machine.
+
+I'm gonna test merge rebase push pull and cherry-pick commands.
